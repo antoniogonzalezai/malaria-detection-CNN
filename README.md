@@ -3,7 +3,7 @@ cell images with equal instances of parasitized and uninfected cells.
 
 If you find this code useful in your research, please consider citing the blog:
 
-@misc{sagarconvolutional, 
+@misc{antoniogonzaconvolutional, 
 Author = {Antonio Gonzalez}, 
 Title = {Convolutional Neural Network for Malarai Detection},
 Year = {2021}, 
